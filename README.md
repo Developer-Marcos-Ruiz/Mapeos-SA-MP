@@ -1,4 +1,4 @@
-# 🗺️ Marcos SA-MP Mapping
+# 🗺️ Leonidas SA-MP Mapping
 
 Bienvenido a mi repositorio de mapeos para **GTA San Andreas Multiplayer (SA-MP)**.
 
